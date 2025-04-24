@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\testeQ\questao9\bin\Debug\net7.0\questao9.exe
+C:\Users\Fernanda46528586\Documents\testeQ\questao9\bin\Debug\net7.0\questao9.deps.json
+C:\Users\Fernanda46528586\Documents\testeQ\questao9\bin\Debug\net7.0\questao9.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\testeQ\questao9\bin\Debug\net7.0\questao9.dll
+C:\Users\Fernanda46528586\Documents\testeQ\questao9\bin\Debug\net7.0\questao9.pdb
+C:\Users\Fernanda46528586\Documents\testeQ\questao9\obj\Debug\net7.0\questao9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\testeQ\questao9\obj\Debug\net7.0\questao9.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\testeQ\questao9\obj\Debug\net7.0\questao9.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\testeQ\questao9\obj\Debug\net7.0\questao9.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\testeQ\questao9\obj\Debug\net7.0\questao9.dll
+C:\Users\Fernanda46528586\Documents\testeQ\questao9\obj\Debug\net7.0\refint\questao9.dll
+C:\Users\Fernanda46528586\Documents\testeQ\questao9\obj\Debug\net7.0\questao9.pdb
+C:\Users\Fernanda46528586\Documents\testeQ\questao9\obj\Debug\net7.0\questao9.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\testeQ\questao9\obj\Debug\net7.0\ref\questao9.dll

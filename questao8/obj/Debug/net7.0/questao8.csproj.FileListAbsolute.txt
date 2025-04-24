@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\testeQ\questao8\bin\Debug\net7.0\questao8.exe
+C:\Users\Fernanda46528586\Documents\testeQ\questao8\bin\Debug\net7.0\questao8.deps.json
+C:\Users\Fernanda46528586\Documents\testeQ\questao8\bin\Debug\net7.0\questao8.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\testeQ\questao8\bin\Debug\net7.0\questao8.dll
+C:\Users\Fernanda46528586\Documents\testeQ\questao8\bin\Debug\net7.0\questao8.pdb
+C:\Users\Fernanda46528586\Documents\testeQ\questao8\obj\Debug\net7.0\questao8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\testeQ\questao8\obj\Debug\net7.0\questao8.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\testeQ\questao8\obj\Debug\net7.0\questao8.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\testeQ\questao8\obj\Debug\net7.0\questao8.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\testeQ\questao8\obj\Debug\net7.0\questao8.dll
+C:\Users\Fernanda46528586\Documents\testeQ\questao8\obj\Debug\net7.0\refint\questao8.dll
+C:\Users\Fernanda46528586\Documents\testeQ\questao8\obj\Debug\net7.0\questao8.pdb
+C:\Users\Fernanda46528586\Documents\testeQ\questao8\obj\Debug\net7.0\questao8.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\testeQ\questao8\obj\Debug\net7.0\ref\questao8.dll
