@@ -11,9 +11,6 @@
         {
             Console.WriteLine("Pode dirigir");
         }
-        else
-        {
-            Console.WriteLine("Não pode dirigir");
-        }
+       
     }
 }

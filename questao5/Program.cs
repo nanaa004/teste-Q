@@ -9,3 +9,7 @@ else
 {
     Console.WriteLine(":(");
 }
+
+/* class program
+ *  static void Main()
+ */
